@@ -1,0 +1,3 @@
+//If you wanted to dynamically update your available in-app purchases, you could load your product ids from a server.
+
+["com.devmtn.inapp_purchase_swift.removeAds"]
